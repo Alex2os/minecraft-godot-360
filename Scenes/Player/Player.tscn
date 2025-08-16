@@ -21,6 +21,7 @@ mesh = SubResource( 2 )
 
 [node name="Camera" type="Camera" parent="."]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.933712, 0 )
+fov = 100.0
 
 [node name="RayCast" type="RayCast" parent="Camera"]
 cast_to = Vector3( 0, 0, -8 )

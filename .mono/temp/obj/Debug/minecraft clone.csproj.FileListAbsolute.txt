@@ -7,3 +7,4 @@ C:\Users\imale\OneDrive\Documentos\minecraft clone\.mono\temp\obj\Debug\minecraf
 C:\Users\imale\OneDrive\Documentos\minecraft clone\.mono\temp\obj\Debug\minecraft clone.csproj.CoreCompileInputs.cache
 C:\Users\imale\OneDrive\Documentos\minecraft clone\.mono\temp\obj\Debug\minecraft clone.dll
 C:\Users\imale\OneDrive\Documentos\minecraft clone\.mono\temp\obj\Debug\minecraft clone.pdb
+C:\Users\imale\OneDrive\Documentos\minecraft clone\.mono\temp\obj\Debug\minecraft clone.sourcelink.json

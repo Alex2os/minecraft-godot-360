@@ -33,6 +33,8 @@ public class Player : KinematicBody
 			rotation.y = rotation.y - mouse_motion.Relative.x * (float)_MouseSensitivity;
 			camera_rotation.x = camera_rotation.x - mouse_motion.Relative.y * (float)_MouseSensitivity;
 			
+			camera_rotation.x = Mathf.Clamp(camera_rotation.x, Mathf.Deg2Rad(-90), Mathf.Deg2Rad(90));
+			
 			Rotation = rotation;
 			_PlayerCamera.Rotation = camera_rotation;
 			
