@@ -1,0 +1,9 @@
+C:\Users\imale\OneDrive\Documentos\minecraft clone\.mono\temp\bin\Debug\minecraft clone.dll
+C:\Users\imale\OneDrive\Documentos\minecraft clone\.mono\temp\bin\Debug\minecraft clone.pdb
+C:\Users\imale\OneDrive\Documentos\minecraft clone\.mono\temp\obj\Debug\minecraft clone.csproj.AssemblyReference.cache
+C:\Users\imale\OneDrive\Documentos\minecraft clone\.mono\temp\obj\Debug\minecraft clone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imale\OneDrive\Documentos\minecraft clone\.mono\temp\obj\Debug\minecraft clone.AssemblyInfoInputs.cache
+C:\Users\imale\OneDrive\Documentos\minecraft clone\.mono\temp\obj\Debug\minecraft clone.AssemblyInfo.cs
+C:\Users\imale\OneDrive\Documentos\minecraft clone\.mono\temp\obj\Debug\minecraft clone.csproj.CoreCompileInputs.cache
+C:\Users\imale\OneDrive\Documentos\minecraft clone\.mono\temp\obj\Debug\minecraft clone.dll
+C:\Users\imale\OneDrive\Documentos\minecraft clone\.mono\temp\obj\Debug\minecraft clone.pdb
